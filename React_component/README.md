@@ -1,1 +1,1 @@
-React_component
+in this project we will convert App function to class component with lifecycle methods, add event listeners and corresponding tests, convert Notifications function to class component, add markAsRead event handler, update NotificationItem to handle markAsRead, add BodySection and BodySectionWithMarginBottom components, use new components in App, create WithLogging HOC, write tests for HOC, optimize NotificationItem and Notifications components, and add tests for optimization
